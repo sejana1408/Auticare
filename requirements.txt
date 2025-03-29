@@ -1,0 +1,6 @@
+streamlit 
+ollama
+PyPDF2
+tensorflow 
+opencv-python-headless
+
